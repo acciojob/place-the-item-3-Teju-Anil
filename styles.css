@@ -1,5 +1,6 @@
 /* Your CSS Code here. */
 #holder {
-   display: flex;
+	display: wrap;
+	flex-wrap: wrap;
   justify-content: space-between; /* Distribute items evenly along the row */
 }
