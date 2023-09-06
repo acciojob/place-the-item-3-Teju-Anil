@@ -2,5 +2,5 @@
 #holder {
 	display: flex;
 	flex-wrap: wrap;
-    justify-content: space-between; /* Distribute items evenly along the row */
+    justify-content: space-between; 
 }
